@@ -23,7 +23,7 @@ body {
     justify-content: center;
     align-items: center;
     min-height: 100vh;
-    background: url('yam.jpg') no-repeat;
+    background: url('rest.jpg') no-repeat;
     background-size: cover;
     background-position: center;
 }
@@ -135,3 +135,4 @@ body {
     text-decoration: underline;
 
 }
+
